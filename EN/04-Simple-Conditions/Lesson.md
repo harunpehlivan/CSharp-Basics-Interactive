@@ -1,5 +1,5 @@
 # Title
-Conditional Statements
+Simple Conditional Statements
 
 # Description
 In this lesson we shall learn to work with **boolean conditions** and to use **conditional statements** like:
