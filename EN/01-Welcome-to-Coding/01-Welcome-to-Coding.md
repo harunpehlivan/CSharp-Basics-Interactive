@@ -24,7 +24,7 @@ C# is used for **Web** development, writing **mobile** apps, implementing server
 
 In this training we shall use **the C# language** to learn coding. We shall learn new concepts using **C# code examples**. We shall write a lot of C# programs and shall solve many **practical exercises** in C#.
 
-To use **C#** you either write your code in the code boxes in this training environment, or you install a development environment (**IDE**) like [**Visual Studio**](https://visualstudio.microsoft.com). We shall learn about Visual Studio later in this training.
+To use **C#** you either write your code in the code boxes in this training environment, or you install a development environment (**IDE**) like **[Visual Studio](https://visualstudio.microsoft.com)**. We shall learn about Visual Studio later in this training.
 
 Now, to simplify your first steps in coding, it is recommended to **write your code in the code boxes** in this training environment.
 
