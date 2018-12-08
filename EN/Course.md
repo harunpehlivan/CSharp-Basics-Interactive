@@ -20,7 +20,5 @@ Beginner
  - Svetlin Nakov, principal technical trainer @ SoftUni
 
 # Cover
-<!-- ![](img/course-cover.png) -->
 
 # Icon
-<!-- ![](img/course-icon.png) -->
