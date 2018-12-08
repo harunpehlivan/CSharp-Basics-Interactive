@@ -8,4 +8,4 @@ In this lesson we shall **practice** writing simple programs to perform **simple
 Mandatory
 
 # Cover
-![](img/lesson-cover.png)
+[image src="img/lesson-cover.png" /]

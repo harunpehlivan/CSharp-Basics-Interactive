@@ -8,4 +8,4 @@ In this lesson we shall practice problem solving as preparation for the **practi
 Optional
 
 # Cover
-![](img/lesson-cover.png)
+[image src="img/lesson-cover.png" /]

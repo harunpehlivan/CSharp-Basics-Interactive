@@ -10,4 +10,4 @@ In this lesson we shall learn to work with **boolean conditions** and to use **c
 Mandatory
 
 # Cover
-![](img/lesson-cover.png)
+[image src="img/lesson-cover.png" /]

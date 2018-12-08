@@ -8,4 +8,4 @@ In this lesson we shall **practice** implementing more complex logic, working wi
 Mandatory
 
 # Cover
-![](img/lesson-cover.png)
+[image src="img/lesson-cover.png" /]

@@ -8,4 +8,4 @@ In this lesson we shall learn how to install and use the **Visual Studio** integ
 Mandatory
 
 # Cover
-![](img/lesson-cover.png)
+[image src="img/lesson-cover.png" /]

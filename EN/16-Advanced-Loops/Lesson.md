@@ -11,4 +11,4 @@ In this lesson we shall learn how to use more complex and special loop construct
 Mandatory
 
 # Cover
-![](img/lesson-cover.png)
+[image src="img/lesson-cover.png" /]

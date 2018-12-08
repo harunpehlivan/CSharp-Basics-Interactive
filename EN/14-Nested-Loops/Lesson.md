@@ -8,4 +8,4 @@ In this lesson we shall learn how to use nested loops: loops inside other loops 
 Mandatory
 
 # Cover
-![](img/lesson-cover.png)
+[image src="img/lesson-cover.png" /]

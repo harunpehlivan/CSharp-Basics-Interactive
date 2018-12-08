@@ -8,4 +8,4 @@ In this lesson we shall learn how to to perform **simple calculations** like add
 Mandatory
 
 # Cover
-![](img/lesson-cover.png)
+[image src="img/lesson-cover.png" /]

@@ -20,7 +20,7 @@
  - Светлин Наков, главен технологичен трейнър и вдъхновител @ SoftUni
 
 # Cover
-<!-- ![](img/course-cover.png) -->
+[image src=img/course-cover.png /]
 
 # Icon
-<!-- ![](img/course-icon.png) -->
+[image src=img/course-icon.png /]

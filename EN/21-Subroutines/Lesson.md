@@ -8,4 +8,4 @@ In this lesson we shall learn how to define and invoke suboutines (named pieces 
 Optional
 
 # Cover
-![](img/lesson-cover.png)
+[image src="img/lesson-cover.png" /]

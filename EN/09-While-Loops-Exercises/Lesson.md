@@ -8,4 +8,4 @@ In this lesson we shall **practice** working with **simple loop constructions** 
 Mandatory
 
 # Cover
-![](img/lesson-cover.png)
+[image src="img/lesson-cover.png" /]

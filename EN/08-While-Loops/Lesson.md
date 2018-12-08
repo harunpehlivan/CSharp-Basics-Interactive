@@ -8,4 +8,4 @@ In this lesson we shall learn how to repeat a piece of code several times, by us
 Mandatory
 
 # Cover
-![](img/lesson-cover.png)
+[image src="img/lesson-cover.png" /]

@@ -8,4 +8,4 @@ In this lesson we shall **practice** using methods by solving practical problems
 Optional
 
 # Cover
-![](img/lesson-cover.png)
+[image src="img/lesson-cover.png" /]

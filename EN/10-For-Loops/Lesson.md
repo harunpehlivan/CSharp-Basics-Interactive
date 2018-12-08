@@ -8,4 +8,4 @@ In this lesson we shall learn how to use the `for` loop in programming too repea
 Mandatory
 
 # Cover
-![](img/lesson-cover.png)
+[image src="img/lesson-cover.png" /]

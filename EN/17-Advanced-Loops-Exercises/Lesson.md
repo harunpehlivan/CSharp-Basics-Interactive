@@ -8,4 +8,4 @@ In this lesson we shall **practice** how to use the advanced and specialized loo
 Mandatory
 
 # Cover
-![](img/lesson-cover.png)
+[image src="img/lesson-cover.png" /]

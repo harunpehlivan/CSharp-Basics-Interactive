@@ -8,4 +8,4 @@ In this lesson we shall **practice** writing simple boolean conditions, `if`-`el
 Mandatory
 
 # Cover
-![](img/lesson-cover.png)
+[image src="img/lesson-cover.png" /]
